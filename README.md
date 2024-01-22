@@ -6,4 +6,6 @@ cd Web_OSINT
  
 python3 web_osint_scan.py
 
- Done
+Done
+
+The tool works on Linux & Termux
